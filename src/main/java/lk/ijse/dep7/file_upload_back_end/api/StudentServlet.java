@@ -1,4 +1,4 @@
-package lk.ijse.dep7.file_upload_back_end;
+package lk.ijse.dep7.file_upload_back_end.api;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
